@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.titulo{
+color: rgb(2, 194, 12);
+text-decoration: none;
+margin-left: 5px;
+}
+p{
+    margin-left: 10px;
+}
+
+.barra_nav{
+    display: flex;
+    background-color: rgb(2, 194, 12);
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.horario{
+    margin-left : 10px;
+}
+
+.contenido{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+.titulo_pies{
+    display: flex;
+    background-color: black;
+    margin-top: 10px;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    justify-content: center;
+}
+
+.texto_pie{
+    margin-bottom: 10px;
+}
+
+  
