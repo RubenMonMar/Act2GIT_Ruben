@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.titulo{
+color: rgb(2, 194, 12);
+text-decoration: none;
+margin-left: 5px;
+}
+p{
+    margin-left: 10px;
+}
+
+.barra_nav{
+    display: flex;
+    background-color: rgb(2, 194, 12);
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.horario{
+    margin-left : 10px;
+}
+
+.contenido{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+.titulo_pies{
+    display: flex;
+    background-color: black;
+    margin-top: 10px;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    justify-content: center;
+}
+
+.texto_pie{
+    margin-bottom: 10px;
+}
+
+.cabecera{
+    font-size: 30px;
+ }
+ table{
+    height: 75vh;
+    width: 98vw;
+}
+table, td, th{
+    text-align: center;
+    letter-spacing: 5px;
+    border-style: double;
+    border-color: black;
+    border-radius: 5px;
+    margin: auto;
+ }
+ th{
+     background-color: aqua;
+ }
+ .EDD{
+     color: white;
+     background-color: blue;
+     font-family:Arial;
+     font-size: 20px;
+ }
+ .FOL{
+     color: white;
+     background-color: brown;
+     font-family: 'Gill Sans';
+     font-size: 20px;
+ }
+ .BDD{
+     color: white;
+     background-color: blueviolet;
+     font-family: Impact;
+     font-size: 20px;
+ }
+ .PMN{
+     color: white;
+     background-color: darkgreen;
+     font-family: Georgia;
+     font-size: 20px;
+ }
+ .SO{
+     color: white;
+     background-color: deeppink;
+     font-family: Verdana;
+     font-size: 20px;
+ }
+ .LDM{
+     color: white;
+     background-color: red;
+     font-family: 'Segoe UI';
+     font-size: 20px;
+ }
+ .HORA{
+    color:rgb(0, 0, 0);
+    font-weight:bold;
+    background-color: rgb(0, 255, 255);
+    font-size: 25px;
+ }
+
+ #RECREO{
+     background-color: rgb(110, 110, 255);
+     height: 30px;
+     text-align: center;
+     font-size: 50px;
+     letter-spacing: 7dvh;
+     font-family: fantasy;
+ }
